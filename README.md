@@ -1,6 +1,5 @@
 # 🧠 Vendor Performance Data Analytics Dashboard
 
-## 📌 Project Description
 The **Vendor Performance Data Analytics** project aims to evaluate and visualize vendor performance using real purchasing data.  
 It integrates **Python for data ingestion and transformation** with **Power BI for visualization**, enabling decision-makers to identify top-performing vendors, analyze purchasing patterns, and optimize procurement strategies.
 
